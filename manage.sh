@@ -1,2 +1,2 @@
 #! /bin/bash
-docker-compose run web python3 manage $1
+docker-compose run web python3 manage.py $1 $2
